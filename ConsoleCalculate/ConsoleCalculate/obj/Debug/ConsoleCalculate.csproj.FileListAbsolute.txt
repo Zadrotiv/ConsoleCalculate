@@ -1,0 +1,8 @@
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\bin\Debug\ConsoleCalculate.exe.config
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\bin\Debug\ConsoleCalculate.exe
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\bin\Debug\ConsoleCalculate.pdb
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\obj\Debug\ConsoleCalculate.csproj.AssemblyReference.cache
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\obj\Debug\ConsoleCalculate.csproj.SuggestedBindingRedirects.cache
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\obj\Debug\ConsoleCalculate.csproj.CoreCompileInputs.cache
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\obj\Debug\ConsoleCalculate.exe
+D:\TelegramBot\Project\ConsoleCalculate\ConsoleCalculate\ConsoleCalculate\obj\Debug\ConsoleCalculate.pdb
